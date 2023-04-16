@@ -136,7 +136,7 @@ BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 GRAY = (128, 128, 128)
 
-size = (1000, 500)
+size = (600, 500)
 screen = pygame.display.set_mode(size)
 
 pygame.display.set_caption("Tetris")
